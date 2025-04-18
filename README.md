@@ -66,7 +66,7 @@ The following graphs are plotted to compare clustering performance:
 
 ## 📂 Files
 
-- `iris_clustering_analysis.ipynb`: Jupyter Notebook for complete analysis
+- `iris_clustering_analysis.ipynb`: Colab Notebook for complete analysis
 - `README.md`: This file
 
 ---
@@ -89,4 +89,3 @@ This experiment validates that:
 
 ---
 
-**Author**: _Your Name_  
